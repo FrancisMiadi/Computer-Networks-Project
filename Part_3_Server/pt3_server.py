@@ -6,7 +6,6 @@ import os
 PORTNUM = 6060
 
 SERVER_IP = '127.0.0.1'
-#SERVER_IP = '192.168.1.113'
 ADDRESS = (SERVER_IP, PORTNUM)
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)  # OUR SOCKET
 server.bind(ADDRESS)  # we connected our socket to ADDRESS , so anything that hit this address will hit our socket
