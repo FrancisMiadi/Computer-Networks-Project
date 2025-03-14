@@ -22,9 +22,9 @@ A **socket programming project** with **three parts**: network diagnostics, UDP 
 - **Test on multiple devices** and log **HTTP requests**.
 
 ## 🤝 Project Team
--**Francis Miadi**  
--Husain Aboghosh  
--Mayar Masalmeh
+- **Francis Miadi**  
+- Husain Aboghosh  
+- Mayar Masalmeh
 
   ## 🌐 Contact  
 **For inquiries, reach out via:**
